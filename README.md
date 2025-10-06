@@ -30,4 +30,4 @@ pip install -r requirements.txt
 
 chmod +x Text-finder.py
 
-python3 Text-finder.py
+python Text-finder.py
