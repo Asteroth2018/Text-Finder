@@ -24,6 +24,8 @@ To use:
 
 git clone https://github.com/Asteroth2018/Text-Finder.git
 
+cd Text-Finder
+
 pip install -r requirements.txt
 
 chmod +x Text-finder.py
