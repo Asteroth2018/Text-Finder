@@ -15,3 +15,5 @@ pyfiglet
 termcolor
 
 You can install them with pip
+
+REMEMBER!!! Give it permissions before start (chmod +x Text-finder.py)
