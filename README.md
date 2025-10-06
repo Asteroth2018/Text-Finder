@@ -8,12 +8,18 @@ Give it a word and path to your text files and it will look for the word in all 
 It can scan '.html', '.htm', '.txt', '.css', '.js', '.py', '.md', '.xml', '.json', '.log', '.csv', '.sh', '.yml', '.yaml', '.conf', '.pdf' and more!!!
 
 Requirements:
+
 urllib3
 PyPDF2
 colorama
 pyfiglet
 termcolor
 
-You can install them with pip
+(You can install them with pip)
 
-REMEMBER!!! Give it permissions before start (chmod +x Text-finder.py)
+To use:
+
+git clone https://github.com/Asteroth2018/Text-Finder.git
+pip install -r requirements.txt
+chmod +x Text-finder.py
+python3 Text-finder.py
