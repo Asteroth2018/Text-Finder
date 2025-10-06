@@ -23,6 +23,9 @@ termcolor
 To use:
 
 git clone https://github.com/Asteroth2018/Text-Finder.git
+
 pip install -r requirements.txt
+
 chmod +x Text-finder.py
+
 python3 Text-finder.py
